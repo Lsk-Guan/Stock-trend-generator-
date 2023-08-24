@@ -1,1 +1,1 @@
-# Stock-trend-generator-
+# Simply run this code 'pip install yfinance pandas matplotlib seaborn' in a new terminal then we are all set to run the following code which I use The Boeing Company as an example to illustrate the historical trend of stock price.
